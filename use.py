@@ -1,4 +1,4 @@
-from finance import model, r21, r22, tests
+from main import model, r21, r22, tests
 import pandas as pd
 
 print(r21, r22)
