@@ -5,7 +5,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 
 # load & fix the data from A.V.
-KEY = 'WNVEV8F0NHWN16DR'
+KEY = ''
 SYM = 'AMZN'
 
 TICKERS = ['AAPL', 'JNJ', 'JPM']
